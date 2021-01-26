@@ -1,6 +1,6 @@
 {
   "name": "pedro-henrique",
-  "version": "0.1.0",
+  "version": "33.80.43",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

@@ -1,4 +1,6 @@
-# pedro-henrique
+# Start Vue.js
+
+Hello World with Vue.js for Cross-Platform Applications with Vue.js.
 
 ## Project setup
 ```
